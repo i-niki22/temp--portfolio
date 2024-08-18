@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Password Generator",
+    "imageSrc": "projects/project.png",
+    "description": "Created a dynamic password generator tool that allows users to generate secure, customizable passwords. ",
+    "skills": ["React", "HTML", "Node", "Css"],
+    "demo": "https://temp-password-generator.netlify.app",
+    "source": "https://github.com/i-niki22/temp-password-generator"
+  },
+  {
+    "title": "Google map clone ",
+    "imageSrc": "projects/project.png",
+    "description": "Google Map clone that replicates core  functionalities like location search and real-time location tracking",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://google-map-clone908.netlify.app",
+    "source": "https://github.com/i-niki22/temp-googlemap-clone"
+  },
+  {
+    "title": "Shopping Site",
+    "imageSrc": "projects/project.png",
+    "description": "Built a fully functional e-commerce website with a responsive design, featuring product listings, search functionality.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://temp-shopping-site.netlify.app",
+    "source": "https://github.com/i-niki22/temp-Shopping-Site"
+  },
+  {
+    "title": "Travel Application",
+    "imageSrc": "projects/project.png",
+    "description": "Built a static website for travelers with list of adventurous places to explore.",
+    "skills": ["JavaScript", "HTML", "CSS"],
+    "demo": "https://123backroads-app.netlify.app",
+    "source": "https://github.com/i-niki22/temp-backroad-app-main"
+  },
+  {
+    "title": "To Do App",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a minimalist to-do app to help users efficiently manage tasks,to prioritize ease of use ",
+    "skills": ["Angular", "Express", "Node"],
+    "demo": "https://todoapp789.netlify.app",
+    "source": "https://github.com/i-niki22/temp-ToDo-app"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "role": "Software Developer",
+    "organisation": "MindMade",
+    "startDate": "March, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Identified and resolved front-end technical issues, contributing to a seamless and intuitive user experience"
+    ],
+    "imageSrc": "history/mindmade.png"
+  },
+  {
+    "role": "Software Developer",
+    "organisation": "MazoSol",
+    "startDate": "June, 2023",
+    "endDate": "Feb, 2024",
+    "experiences": [
+      "Developed a responsive UI for efficient attendance tracking, aligning with modern web technologies and ensuring cross-device compatibility"
+    ],
+    "imageSrc": "history/mazosol.png"
+  }
+]
